@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Generic</aircraft>
+    <author>unknown</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description></description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>1522</prefHeight>
+    <prefWidth>800</prefWidth>
+    <type>Aspen EFD1000 TEST JZ</type>
+    <uuid>bc0e883a-9170-4dc4-ba93-3cb49e1cef6d</uuid>
+    <version>1</version>
+</pluginstrument>
